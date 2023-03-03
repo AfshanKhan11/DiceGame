@@ -6,7 +6,6 @@ Simple two player dice game. Once the user clicks on Roll the Dice button, the d
 Demo: https://afshankhan11.github.io/DiceGame/
 
 
-
 ## Built With
 
   * HTML
